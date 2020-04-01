@@ -1,5 +1,5 @@
 # X8313  Betting Strategy & Simulation Code
-Code excerpt from X8313 Inc.
+The following is a code excerpt from X8313 Inc. and not necessarily fully functional. The purpose of this repo is only to showcase my work and not intended for use.
 
 ### Strategy Code
 These are a set of Python functions that are used to define any possible strategy, given the exisiting data-points in the target data and a method for applying the strategy to a set of races. 
