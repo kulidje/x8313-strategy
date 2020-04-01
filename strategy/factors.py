@@ -1,19 +1,6 @@
 """
-factors.py
+helper functions
 """
-
-
-def func_criteria_between(df, attr, hmin, hmax):
-    """returns the subset with """
-    return (df[attr].between(hmin,hmax))
-
-
-def func_criteria_isin(df, attr, list_values):
-    return (df[attr].isin(list_values))
-
-
-def func_criteria_text(df, attr, match_text):
-    return (df[attr].str.find(match_text)>-1)
 
 
 def between(attr, min, max, view=False):
