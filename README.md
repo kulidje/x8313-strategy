@@ -21,6 +21,6 @@ These 2 pieces interface seemlesly together. Here is some psuedo code to illustr
 ```
 datelist = list of dates
 strategy_dict = Python dict of user-defined rules
-Simulator(datelist, strategy_dict)
+Simulator(datelist, strategy_dict):
     return P&L
 ```
